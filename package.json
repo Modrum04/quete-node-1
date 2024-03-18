@@ -1,0 +1,14 @@
+{
+  "name": "quete-node-1",
+  "version": "1.0.0",
+  "description": "quete node premiere du nom",
+  "main": "information.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cowsay": "^1.6.0"
+  }
+}
